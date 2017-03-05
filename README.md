@@ -64,6 +64,18 @@ $ vagrant up --provision
 
 Then the box will be downloaded for you.
 
+*Run vagrant*
+
+```shell 
+vagrant ssh
+```
+
+*Go env*
+
+```shell 
+go env
+```
+
 If you wish, you can learn more about it alter a [vagrant file](Vagrantfile) and its [configuration options](ConfigOptions).
 
 ## <a name="license"></a>Copyright and license
